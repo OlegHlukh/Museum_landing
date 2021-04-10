@@ -35,7 +35,7 @@
     transition: transform $durarion, border-radius $durarion;
 
     &:hover {
-      transform: scale(1.1);
+      transform: scale(1.05);
       border: 1px solid $colorDarkGreen;
       border-radius: 8px;
     }

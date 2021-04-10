@@ -3,11 +3,12 @@
   &__input {
     height: 70px;
     width: 370px;
+    font-size: 15px;
+    padding-left: 40px;
 
     &::placeholder {
-      font-size: 14px;
+      font-size: 15px;
       text-transform: capitalize;
-      padding-left: 40px;
     }
 
     @media screen and(max-width: $beakpointTele) {
